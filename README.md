@@ -17,8 +17,8 @@ I'm Yousuf, an enthusiastic undergraduate student with a strong interest in data
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mohammed-yousuf-uddin-6a59982aa/))
-- [Instagram]([https://twitter.com/your-twitter-handle](https://www.instagram.com/m.yousuf321/?hl=en))
+- [LinkedIn](https://www.linkedin.com/in/mohammed-yousuf-uddin-6a59982aa/)
+- [Instagram](https://www.instagram.com/m.yousuf321/?hl=en)
  
 ## 📊 GitHub Stats
 
