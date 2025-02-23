@@ -11,7 +11,3 @@ I'm an undergraduate student studying Computer Science and Engineering. I'm pass
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=im-yousuf&theme=onedark)
-
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=im-yousuf&theme=react-dark)
