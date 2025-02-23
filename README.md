@@ -1,8 +1,24 @@
-# Hi there, I'm YOUSUF 👋
+# Hi there 👋
 
-I'm an undergraduate student studying Computer Science and Engineering. I'm passionate about coding, learning new technologies, and contributing to open-source projects.
+I'm Yousuf, an enthusiastic undergraduate student with a strong interest in data science and web development. Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning about new technologies 
+## 🚀 About Me
+
+- 🌱 I’m currently learning **Python** and aiming to dive into **Data Science**
+- 🎓 Planning to specialize in **Data Science**
+- 💻 I have experience in **Front End Web Development** and **C language**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, Python, C language**
+- ⚡ Fun fact: I enjoy playing chess and exploring new technologies
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, C.
+
+## 📫 Connect with Me
+
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mohammed-yousuf-uddin-6a59982aa/))
+- [Instagram]([https://twitter.com/your-twitter-handle](https://www.instagram.com/m.yousuf321/?hl=en))
  
 ## 📊 GitHub Stats
 
@@ -11,3 +27,5 @@ I'm an undergraduate student studying Computer Science and Engineering. I'm pass
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=im-yousuf&theme=onedark)
+
+⭐️ From [Yousuf](https://github.com/im-yousuf)
